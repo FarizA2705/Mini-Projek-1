@@ -2,8 +2,22 @@
 Fariz Aufarizky, 2509116004, Sistem Informasi A, Praktikum Dasar-Dasar Pemrograman
 
 Flowchart Sistem Menejemen Pasien Klinik Harapan
-<img width="963" height="1152" alt="Screenshot 2025-09-14 004130" src="https://github.com/user-attachments/assets/74b1bb74-7da8-4dc4-ae00-2a5391f841f8" />
-
+<img width="1330" height="1131" alt="Screenshot 2025-09-14 213719" src="https://github.com/user-attachments/assets/472d03c0-f04c-4052-a11f-fad768b52754" />
+Mulai
+Proses: Menampilkan Pilihan menu dari ke 4 nya, Tampilkan Semua, Cari Data, Tambah Data Pasien, dan Update Data
+Input: 
+Pilihan 1: Menampilkan Semua Data Para Pasien yang ada, Proses Berakhir
+Pilihan 2: Cari Data input angka 1 untuk Mencari dengan nama dan input angka 2 untuk mencari dengan ID
+Input Angka 1 Mencari dengan Nama, Masukkan Nama,Proses mencari nama Pasien, Decision data ditemukan? jika ya akan menampilkan data jika tidak proses berakhir
+Input Angka 2 Mencari dengan ID, Masukkan ID, Proses mencari ID pasien, Decision data ditemukan? jika ya menampilkan data jika tidak menampilkan data tidak ditemukan dan proses berakhir
+Input Angka lebih dari 1-2, menampilkan Angka tidak valid, Proses Berakhir
+Pilihan 3: 
+Input: Masukkan Nama,Alamat,Usia,Penyakit,Diagnosa,Dan Status,
+Proses: Membuat ID baru dan Memasukkan ke dalam list
+Output: Menampilkan Data berhasil di tambahkan, Proses Berakhir
+Pilihan 4:
+Input:Masukkan ID yang ingin di update, 
+Proses:Mencari pasien dan masuk ke decision data di temukan jika ya menampilkan data saat ini masukkan penyakit, diagnosa, status baru. update data dan akan menampilkan Data Berhasil di Update proses berkahir dan masuk ke situasi data tidak di temukan, akan menampilkan Data tidak di temukan dan proses berakhir.
 
 Berikut ini adalah penjelesaan tentang program Sistem Menejemen Data Pasien Klinik Harapan
 
